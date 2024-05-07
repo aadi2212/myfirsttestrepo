@@ -1,3 +1,1 @@
-# myfirsttestrepo
-for git 
-print ("hello world")
+ print ("hello world")
